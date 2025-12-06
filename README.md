@@ -56,5 +56,5 @@ Trò chơi sử dụng một bản nhạc nền nhẹ nhàng:
 
 ## 👨‍💻 Tác giả & Dự án
 
-* **Dự án của:** [Tên/Nickname của bạn]
+* **Dự án của:** Minh Hiển - Trần Bình - Hoàng Lâm 2025
 * **Mục tiêu:** Dự án ICT CK1.
